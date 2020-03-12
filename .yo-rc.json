@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.emmabanuelos.parentportal"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "ParentPortal",
+    "packageName": "com.emmabanuelos.parentportal",
+    "packageFolder": "com/emmabanuelos/parentportal",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZTQ4ODdhMGJjMTQwNjVlMWU4ODJjNWY3OTU0NjRmMTFkYmU1MDlhMjI1ZDE0NDFmNWI4NTk1YTA4Njk1ODk5MzIzNDM2MWIzODQwYTkzZDgwYTVkZDI5NDVkZDJjNmEzNmQwZDQ1ODZkMGZhM2NmNmRlZDYzOTkyMjdmYzA3MWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "minty",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1583985091148,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": [],
+    "reactive": true
+  }
+}
